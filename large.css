@@ -1,0 +1,144 @@
+@media screen and (min-width: 900px)
+{
+   
+
+    .logo
+    {
+
+        font-size:calc(1.4rem + 1vw);
+    }
+
+    .r
+    {
+        font-size:calc(.8rem + 1vw);
+    }
+
+    .nav-items
+    {
+        gap:calc(2rem + 2vw);
+    }
+
+    .nav-items>li>a
+    {
+        font-size:calc(1rem + .6vw);
+    }
+
+    .search-container
+    {
+        width:60%;
+    }
+
+    .subheading
+    {
+        font-size:1.8rem;
+    
+    }
+
+    
+
+    .related-items>*
+    {
+        font-size:2rem;
+    }
+
+    .filter
+    {
+        
+        padding:.1rem calc(.6rem + .6vw);
+
+    }
+
+    .related-items-set
+{
+    
+    font-size:calc(.8rem + .8vw);
+}
+
+    .edition_popular
+    {
+    
+    font-size:calc(.8rem + .8vw);
+
+    }
+
+    .filter>*
+    {
+        font-size:calc(.8rem + .8vw);
+    }
+
+    .collection-list>li
+{
+   
+    padding:.6rem 2rem;
+}
+
+    .collection-list>li>a
+    {
+        font-size:calc(.8rem + .8vw);
+    }
+
+
+    .collection-items-container
+    {
+        
+        display:flex;
+        flex-direction: row;
+        gap:1rem;
+        justify-content: space-between;
+    }
+    .collection-items
+{
+    width:30%;
+}
+
+.collection-items-details-one,.collection-items-details-two
+{
+    gap:.8rem;
+}
+
+.collection-items-details-one-name
+{
+    font-size:calc(1rem + .6vw);
+}
+
+.collection-items-details-one-card
+{
+    padding:.2rem;
+}
+
+.collection-items-details-two>.collection-icon,.collection-items-details-two>label
+{
+
+    
+    font-size:calc(1rem + .4vw);
+}
+
+.footer-subheading
+{
+    width:60%;
+}
+
+.brand-icon
+{
+     font-size:calc(1rem + 1vw); 
+     
+}
+
+.fordesnhire>*
+{
+    flex-basis:20%;
+}
+
+.fordesigners>li
+{
+    
+    font-size:calc(1rem + .4vw);
+}
+
+.fordesigners h2
+{
+    
+    font-size:calc(1rem + .6vw);
+}
+
+}
